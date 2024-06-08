@@ -4,6 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculation Result</title>
+    <style>
+        body {
+            background-color: black;
+            color: orange;
+            font-family: Arial, sans-serif;
+        }
+        form {
+            border: 1px solid orange;
+            padding: 20px;
+            margin: 20px;
+            background-color: black;
+        }
+        a {
+            color: orange;
+            text-decoration: none;
+        }
+        a:hover {
+            color: white;
+        }
+    </style>
 </head>
 <body>
     <h1>Calculation Result</h1>
