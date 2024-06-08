@@ -25,7 +25,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/your-username/calculator-using-php.git
 cd simple-calculator
 Deploy the files to your web server:
 
